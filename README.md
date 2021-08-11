@@ -1,2 +1,2 @@
 # Quote-generator
-This is a qoute generator that specificaly works on using the twitter api to allow for the posting of qoutes to a users personal twitter account
+This is a qoute generator that specificaly works on using the twitter api to allow for the posting of qoutes to a users personal twitter account.To generate the qoutes asynchrounos fetch request will be made to a rest api. To post qoutes press the bird icon which will ask you to log in to your twitter account to then post tweets. To acquire new qoutes press the new qoute button to get a new randomized qoute.
